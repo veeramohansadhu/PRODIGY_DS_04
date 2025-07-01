@@ -1,4 +1,3 @@
-
 📊 Twitter Entity Sentiment Analysis
 This project analyzes and visualizes public sentiment from tweets related to various brands and topics. The goal is to understand how people feel (Positive, Negative, Neutral, Irrelevant) about specific entities using basic data analysis and visualization techniques.
 
